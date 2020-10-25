@@ -84,6 +84,20 @@
     </fillValue>
     <fullTextSearch>Use</fullTextSearch>
   </attributes>
+  <attributes uuid="485164b4-bb0e-4a73-b898-69f88a0781ce">
+    <name>AttributeTestExt1</name>
+    <synonym>
+      <key>bg</key>
+      <value>Attribute test ext1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <forms uuid="f3f961c3-23f8-438c-bc2e-b71663888ea6">
     <name>DocumentForm</name>
     <synonym>

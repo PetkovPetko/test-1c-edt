@@ -24,6 +24,7 @@
     </synonym>
     <languageCode>bg</languageCode>
   </languages>
+  <catalogs>Catalog.Catalog1</catalogs>
   <documents>Document.ТестДокумент</documents>
   <accumulationRegisters>AccumulationRegister.Композиция</accumulationRegisters>
 </mdclass:Configuration>
